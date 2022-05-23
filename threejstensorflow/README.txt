@@ -1,1 +1,0 @@
-All blazepose CODE and HTML tags are comment out for the moment in every module's respective html and js files.
