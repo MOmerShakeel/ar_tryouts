@@ -1,0 +1,7 @@
+node_modules
+.cache
+dist/*.js
+dist/*.map
+commit_history.txt
+dist/assets
+.vscode
